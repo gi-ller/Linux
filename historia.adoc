@@ -1,0 +1,3 @@
+= Historia de Linux.
+
+Es un sistema operativo de distribución libre
