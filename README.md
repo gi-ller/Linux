@@ -9,6 +9,6 @@ internet y dominando las supercomputadoras en la actualidad.
 Por esos y otros motivos es que he querido ir aprendiendo sobre el manejo  
 de dicho sistema operativo, e ir recopilando la información que voy aprendiendo  
 en el repositorio que pongo a disposicion por este medio.   
-:Penguin:
+:penguin:
 ********************************************************************************
 
